@@ -1,4 +1,4 @@
-# Web_scarping_and_Job_Analyze
+# Web_scraping_and_Job_Analyze
 Web Scraping and Job Market Analysis
 
 This project demonstrates how to scrape job postings from online job portals (e.g., Jobstreet) and perform data analysis to uncover insights about the Indonesian job market.
